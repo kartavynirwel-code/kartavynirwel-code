@@ -69,13 +69,9 @@ CI/CD       █████░░░░░  50%
 ```
 
 ---
-
-## GitHub Stats
 ## GitHub Stats
 
-![Kartavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartavynirwel-code&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartavynirwel-code&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kartavynirwel-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ⭐ *"Code, Deploy, Repeat!"*
