@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-- 🎓 B.Tech CSE @ AITR Indore (2023–2027)
+- 🎓 B.Tech CSE @ AITR Indore
 - 🔭 Building **DevHub 2.0** — a 3-tier app (React + Spring Boot + MySQL) deployed on **K3s on EC2** with a full Jenkins-based DevSecOps pipeline
 - 🛡️ Deep into **DevSecOps**: SAST (SonarQube), SCA (OWASP Dependency-Check), DAST (OWASP ZAP)
 - 🌱 Building AI-powered infra tooling with **Spring Boot & Spring AI** (see **DriftGuard**)
