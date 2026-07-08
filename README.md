@@ -86,8 +86,7 @@ CI/CD (Jenkins/ArgoCD) █████████░  90%
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kartavynirwel-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kartavynirwel-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ⭐ *"Code, Deploy, Repeat!"*
